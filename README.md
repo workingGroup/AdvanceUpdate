@@ -1,2 +1,0 @@
-# AdvanceUpdate
-Actualizaciones para advace
